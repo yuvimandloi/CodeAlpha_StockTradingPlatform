@@ -1,8 +1,8 @@
 # Stock Trading Platform
 
-This is a simple Java console-based Stock Trading Platform project developed during my CodeAlpha Java Programming Internship.
+This is a simple Java console-based Stock Trading Platform developed during my CodeAlpha Java Programming Internship.
 
-In this project, a user can buy and sell stocks, view their portfolio, and save portfolio data into a text file.
+The project allows a user to buy and sell stocks, view their portfolio, and save portfolio details into a text file. It helped me improve my understanding of Java OOP concepts, collections, file handling, and exception handling.
 
 ---
 
@@ -12,8 +12,8 @@ In this project, a user can buy and sell stocks, view their portfolio, and save 
 - Buy stocks
 - Sell stocks
 - View portfolio
-- Save portfolio into a text file
-- Simple console menu
+- Save portfolio to a text file
+- Simple menu-driven console application
 
 ---
 
@@ -21,10 +21,11 @@ In this project, a user can buy and sell stocks, view their portfolio, and save 
 
 - Java
 - IntelliJ IDEA
+- OOP (Object-Oriented Programming)
 - ArrayList
 - File Handling
 - Exception Handling
-- OOP Concepts
+- Git & GitHub
 
 ---
 
@@ -36,42 +37,51 @@ In this project, a user can buy and sell stocks, view their portfolio, and save 
 - Getter and Setter
 - Method Overriding
 - HAS-A Relationship
+- Static Methods
 
 ---
 
 ## Project Structure
 
 ```text
-src
- ├── Main.java
- ├── Stock.java
- ├── PortfolioItem.java
- ├── Transaction.java
- ├── User.java
- └── FileManager.java
-
-data
- └── portfolio.txt
+CodeAlpha_StockTradingPlatform
+│
+├── src
+│   └── com
+│       └── yuvraj
+│           └── stocktrading
+│               ├── Main.java
+│               ├── Stock.java
+│               ├── PortfolioItem.java
+│               ├── Transaction.java
+│               ├── User.java
+│               └── FileManager.java
+│
+├── data
+│   └── portfolio.txt
+│
+├── Screenshots
+│
+└── README.md
 ```
 
 ---
 
 ## How to Run
 
-1. Open the project in IntelliJ IDEA.
-2. Run the Main.java file.
-3. Select an option from the menu.
-4. Buy or sell stocks.
-5. View portfolio.
-6. Save portfolio before exiting.
+1. Clone this repository.
+2. Open the project in IntelliJ IDEA.
+3. Run the `Main.java` file.
+4. Choose options from the menu.
+5. Buy or sell stocks.
+6. View portfolio.
+7. Save portfolio before exiting.
 
 ---
 
-## Output
+## Screenshots
 
-The project provides a simple console-based menu where the user can perform stock trading operations.
-
-Portfolio data is saved inside the **data/portfolio.txt** file.
+Project screenshots are available in the **Screenshots** folder.
 
 ---
 
@@ -79,8 +89,10 @@ Portfolio data is saved inside the **data/portfolio.txt** file.
 
 - Load portfolio from file
 - Transaction history
-- Better user interface
-- Database support
+- Profit/Loss calculation
+- Search stock by name
+- Database integration
+- Java Swing GUI version
 
 ---
 
@@ -88,4 +100,8 @@ Portfolio data is saved inside the **data/portfolio.txt** file.
 
 **Yuvraj Mandloi**
 
-Project developed for **CodeAlpha Java Programming Internship**.
+Developed as part of the **CodeAlpha Java Programming Internship**.
+
+---
+
+⭐ Thank you for visiting this repository.
