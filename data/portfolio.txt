@@ -1,0 +1,10 @@
+========== USER DETAILS ==========
+User Name : Yuvraj
+Balance : ₹82500.0
+
+========== PORTFOLIO ==========
+Stock Details
+Stock Name : TCS
+Stock Price : 3500.0
+Quantity : 5
+--------------------------------------
