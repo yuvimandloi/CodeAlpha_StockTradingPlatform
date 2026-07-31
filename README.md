@@ -81,8 +81,39 @@ CodeAlpha_StockTradingPlatform
 
 ## Screenshots
 
-Project screenshots are available in the **Screenshots** folder.
+### Home Menu
 
+![Home](Screenshots/Home.png)
+
+---
+
+### Available Stocks
+
+![Available Stocks](Screenshots/AvailableStocks.png)
+
+---
+
+### Buy Stock
+
+![Buy Stock](Screenshots/BuyStock.png)
+
+---
+
+### Sell Stock
+
+![Sell Stock](Screenshots/SellStock.png)
+
+---
+
+### Portfolio
+
+![Portfolio](Screenshots/Portfolio.png)
+
+---
+
+### Save Portfolio
+
+![Save Portfolio](Screenshots/SavePortfolio.png)
 ---
 
 ## Future Improvements
