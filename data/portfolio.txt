@@ -1,10 +1,10 @@
 ========== USER DETAILS ==========
 User Name : Yuvraj
-Balance : ₹82500.0
+Balance : ₹98400.0
 
 ========== PORTFOLIO ==========
 Stock Details
-Stock Name : TCS
-Stock Price : 3500.0
-Quantity : 5
+Stock Name : INFOSYS
+Stock Price : 1600.0
+Quantity : 1
 --------------------------------------
