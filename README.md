@@ -114,6 +114,7 @@ CodeAlpha_StockTradingPlatform
 ### Save Portfolio
 
 ![Save Portfolio](Screenshots/SavePortfolio.png)
+
 ---
 
 ## Future Improvements
